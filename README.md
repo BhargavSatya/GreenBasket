@@ -34,7 +34,7 @@ User can login and view the desire information.
 User can search what they need.
 User can get best website when they search the relevant keyword
 
-
+!(../master/slides/slide-08.png)
 
 # to-do list
 
