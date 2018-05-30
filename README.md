@@ -33,8 +33,16 @@ Admin can get general statistics like number of hits, no of visitors.
 User can login and view the desire information.
 User can search what they need.
 User can get best website when they search the relevant keyword
-
-!(../master/slides/slide-08.png)
+![](../master/slides/slide-08.png)
+![](../master/slides/slide-09.png)
+![](../master/slides/slide-10.png)
+![](../master/slides/slide-11.png)
+![](../master/slides/slide-12.png)
+![](../master/slides/slide-13.png)
+![](../master/slides/slide-14.png)
+![](../master/slides/slide-15.png)
+![](../master/slides/slide-16.png)
+![](../master/slides/slide-17.png)
 
 # to-do list
 
